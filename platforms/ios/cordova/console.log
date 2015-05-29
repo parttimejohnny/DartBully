@@ -1,0 +1,465 @@
+2015-05-28 16:33:32.508 DartBully[83522:9644479] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/D3866DBB-6AF5-4F70-A642-E23C2E33F721/Library/Cookies/Cookies.binarycookies
+2015-05-28 16:33:32.618 DartBully[83522:9644479] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-28 16:33:32.619 DartBully[83522:9644479] Multi-tasking -> Device: YES, App: YES
+2015-05-28 16:33:32.637 DartBully[83522:9644479] Unlimited access to network resources
+2015-05-28 16:33:32.641 DartBully[83522:9644479] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-28 16:33:33.038 DartBully[83522:9644479] Resetting plugins due to page load.
+2015-05-28 16:33:34.881 DartBully[83522:9644479] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/2BDE9362-0696-4A15-AF2E-F83458B0405F/DartBully.app/www/index.html
+2015-05-28 16:36:40.279 DartBully[85009:9660983] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/C9B5FED0-4022-4383-9CA0-35171C63C12B/Library/Cookies/Cookies.binarycookies
+2015-05-28 16:36:40.373 DartBully[85009:9660983] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-28 16:36:40.373 DartBully[85009:9660983] Multi-tasking -> Device: YES, App: YES
+2015-05-28 16:36:40.378 DartBully[85009:9660983] Unlimited access to network resources
+2015-05-28 16:36:40.380 DartBully[85009:9660983] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-28 16:36:40.516 DartBully[85009:9660983] Resetting plugins due to page load.
+2015-05-28 16:36:40.661 DartBully[85009:9660983] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/AD47C37F-68C5-4246-B4A5-4182FD57D00C/DartBully.app/www/index.html
+2015-05-28 16:37:18.806 DartBully[85502:9665745] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/BA252AD7-E67D-4AEA-B8AA-405F155490CD/Library/Cookies/Cookies.binarycookies
+2015-05-28 16:37:18.893 DartBully[85502:9665745] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-28 16:37:18.894 DartBully[85502:9665745] Multi-tasking -> Device: YES, App: YES
+2015-05-28 16:37:18.898 DartBully[85502:9665745] Unlimited access to network resources
+2015-05-28 16:37:18.901 DartBully[85502:9665745] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-28 16:37:19.032 DartBully[85502:9665745] Resetting plugins due to page load.
+2015-05-28 16:37:19.118 DartBully[85502:9665745] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/2334D9CD-C185-488C-968B-2DEC3FD885BF/DartBully.app/www/index.html
+2015-05-28 16:37:22.591 DartBully[85502:9665766] Communications error: <OS_xpc_error: <error: 0x2e615f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2e6183c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-28 16:39:39.830 DartBully[86694:9676818] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/7B1DA18F-0B37-4961-8B6F-8788BE17E409/Library/Cookies/Cookies.binarycookies
+2015-05-28 16:39:39.941 DartBully[86694:9676818] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-28 16:39:39.942 DartBully[86694:9676818] Multi-tasking -> Device: YES, App: YES
+2015-05-28 16:39:39.950 DartBully[86694:9676818] Unlimited access to network resources
+2015-05-28 16:39:39.953 DartBully[86694:9676818] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-28 16:39:40.141 DartBully[86694:9676818] Resetting plugins due to page load.
+2015-05-28 16:39:40.934 DartBully[86694:9676818] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/22890751-505B-481C-9D78-02AB201DFEC6/DartBully.app/www/index.html
+2015-05-28 16:46:50.310 DartBully[90574:9717356] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/629F0D62-E910-431B-8B05-8B5A9F730231/Library/Cookies/Cookies.binarycookies
+2015-05-28 16:46:50.458 DartBully[90574:9717356] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-28 16:46:50.458 DartBully[90574:9717356] Multi-tasking -> Device: YES, App: YES
+2015-05-28 16:46:50.464 DartBully[90574:9717356] Unlimited access to network resources
+2015-05-28 16:46:50.466 DartBully[90574:9717356] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-28 16:46:50.650 DartBully[90574:9717356] Resetting plugins due to page load.
+2015-05-28 16:46:51.429 DartBully[90574:9717356] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/0D15DAEC-45F4-4876-ABC1-14FFD72F93A8/DartBully.app/www/index.html
+2015-05-29 10:13:12.298 DartBully[39947:10530488] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/FF7B312E-A68A-4DF8-8808-59426DA3CBAE/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:13:12.408 DartBully[39947:10530488] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:13:12.408 DartBully[39947:10530488] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:13:12.413 DartBully[39947:10530488] Unlimited access to network resources
+2015-05-29 10:13:12.416 DartBully[39947:10530488] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:13:12.545 DartBully[39947:10530488] Resetting plugins due to page load.
+2015-05-29 10:13:12.636 DartBully[39947:10530488] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/69CE6E18-F560-4241-B3FF-8654E9080C41/DartBully.app/www/index.html
+2015-05-29 10:14:22.828 DartBully[40584:10539121] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/6A1CF157-105A-4EE0-B97E-03B667EAEDA3/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:14:22.920 DartBully[40584:10539121] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:14:22.920 DartBully[40584:10539121] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:14:22.924 DartBully[40584:10539121] Unlimited access to network resources
+2015-05-29 10:14:22.926 DartBully[40584:10539121] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:14:23.057 DartBully[40584:10539121] Resetting plugins due to page load.
+2015-05-29 10:14:23.987 DartBully[40584:10539121] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/D6EC20C9-D056-4412-889F-D11E06DBCC03/DartBully.app/www/index.html
+2015-05-29 10:14:26.442 DartBully[40584:10539125] Terminating since there is no system app.
+2015-05-29 10:14:44.288 DartBully[40855:10541787] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/906B9692-66C8-4842-924D-2ACA59B3B0A0/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:14:44.386 DartBully[40855:10541787] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:14:44.387 DartBully[40855:10541787] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:14:44.391 DartBully[40855:10541787] Unlimited access to network resources
+2015-05-29 10:14:44.393 DartBully[40855:10541787] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:14:44.534 DartBully[40855:10541787] Resetting plugins due to page load.
+2015-05-29 10:14:45.261 DartBully[40855:10541787] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/49AE829E-F53D-4BDA-907B-2DC25F89A0E6/DartBully.app/www/index.html
+2015-05-29 10:14:47.976 DartBully[40855:10541789] Terminating since there is no system app.
+2015-05-29 10:15:50.562 DartBully[41546:10549318] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/E50A6C4A-E124-4D62-AC6B-D1DDA56273AD/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:15:50.652 DartBully[41546:10549318] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:15:50.653 DartBully[41546:10549318] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:15:50.657 DartBully[41546:10549318] Unlimited access to network resources
+2015-05-29 10:15:50.659 DartBully[41546:10549318] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:15:50.791 DartBully[41546:10549318] Resetting plugins due to page load.
+2015-05-29 10:15:51.643 DartBully[41546:10549318] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/F66A3536-E7F6-44BB-A40B-EDBDBA39CEDA/DartBully.app/www/index.html
+2015-05-29 10:15:55.707 DartBully[41546:10549322] Terminating since there is no system app.
+2015-05-29 10:16:27.582 DartBully[41940:10553372] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/3675589D-E8C2-4953-B293-552A46CAB0C6/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:16:27.669 DartBully[41940:10553372] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:16:27.669 DartBully[41940:10553372] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:16:27.674 DartBully[41940:10553372] Unlimited access to network resources
+2015-05-29 10:16:27.676 DartBully[41940:10553372] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:16:27.809 DartBully[41940:10553372] Resetting plugins due to page load.
+2015-05-29 10:16:28.638 DartBully[41940:10553372] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/058729A8-FADF-468C-81CC-3F49465F865E/DartBully.app/www/index.html
+2015-05-29 10:16:30.805 DartBully[41940:10553439] Terminating since there is no system app.
+2015-05-29 10:17:26.641 DartBully[42503:10555846] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/ABFE9638-D4F3-4B21-BA1C-BDC994B04373/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:17:26.733 DartBully[42503:10555846] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:17:26.734 DartBully[42503:10555846] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:17:26.738 DartBully[42503:10555846] Unlimited access to network resources
+2015-05-29 10:17:26.740 DartBully[42503:10555846] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:17:26.873 DartBully[42503:10555846] Resetting plugins due to page load.
+2015-05-29 10:17:27.055 DartBully[42503:10555846] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/A63EDA88-FFB9-4A71-844F-08EEC7630397/DartBully.app/www/index.html
+2015-05-29 10:18:12.259 DartBully[42939:10559622] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/203D1ACC-BB2F-4108-BADC-7C2BC691D637/Library/Cookies/Cookies.binarycookies
+2015-05-29 10:18:12.342 DartBully[42939:10559622] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 10:18:12.343 DartBully[42939:10559622] Multi-tasking -> Device: YES, App: YES
+2015-05-29 10:18:12.348 DartBully[42939:10559622] Unlimited access to network resources
+2015-05-29 10:18:12.351 DartBully[42939:10559622] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 10:18:12.481 DartBully[42939:10559622] Resetting plugins due to page load.
+2015-05-29 10:18:12.570 DartBully[42939:10559622] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/C51E2C2E-CAA2-443C-B526-10502307FB94/DartBully.app/www/index.html
+2015-05-29 14:42:14.136 DartBully[55154:12008263] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/20234464-A143-4103-9BDC-548219911337/Library/Cookies/Cookies.binarycookies
+2015-05-29 14:42:14.239 DartBully[55154:12008263] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 14:42:14.239 DartBully[55154:12008263] Multi-tasking -> Device: YES, App: YES
+2015-05-29 14:42:14.258 DartBully[55154:12008263] Unlimited access to network resources
+2015-05-29 14:42:14.262 DartBully[55154:12008263] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 14:42:14.708 DartBully[55154:12008263] Resetting plugins due to page load.
+2015-05-29 14:42:14.974 DartBully[55154:12008263] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/EBFFEBB9-2596-434D-AC29-6935A961FF58/DartBully.app/www/index.html
+2015-05-29 14:42:38.047 DartBully[55449:12009450] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/962AC8EC-B73A-4800-86B0-6E08133F14AA/Library/Cookies/Cookies.binarycookies
+2015-05-29 14:42:38.131 DartBully[55449:12009450] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 14:42:38.131 DartBully[55449:12009450] Multi-tasking -> Device: YES, App: YES
+2015-05-29 14:42:38.136 DartBully[55449:12009450] Unlimited access to network resources
+2015-05-29 14:42:38.138 DartBully[55449:12009450] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 14:42:38.269 DartBully[55449:12009450] Resetting plugins due to page load.
+2015-05-29 14:42:38.358 DartBully[55449:12009450] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/EBD17BD7-EE3C-470B-857D-83C983303C5C/DartBully.app/www/index.html
+2015-05-29 14:44:33.273 DartBully[56339:12011236] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/DF2B0588-73A3-47B3-AF6A-316297E9C20A/Library/Cookies/Cookies.binarycookies
+2015-05-29 14:44:33.395 DartBully[56339:12011236] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 14:44:33.395 DartBully[56339:12011236] Multi-tasking -> Device: YES, App: YES
+2015-05-29 14:44:33.401 DartBully[56339:12011236] Unlimited access to network resources
+2015-05-29 14:44:33.403 DartBully[56339:12011236] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 14:44:33.561 DartBully[56339:12011236] Resetting plugins due to page load.
+2015-05-29 14:44:33.758 DartBully[56339:12011236] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/5F7D7D03-F3ED-4FC6-A853-BD1386BDD78E/DartBully.app/www/index.html
+2015-05-29 14:47:05.940 DartBully[57555:12013996] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/B4BAE8CB-607E-488A-BD68-F1A8D5DEC777/Library/Cookies/Cookies.binarycookies
+2015-05-29 14:47:06.036 DartBully[57555:12013996] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 14:47:06.036 DartBully[57555:12013996] Multi-tasking -> Device: YES, App: YES
+2015-05-29 14:47:06.040 DartBully[57555:12013996] Unlimited access to network resources
+2015-05-29 14:47:06.042 DartBully[57555:12013996] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 14:47:06.170 DartBully[57555:12013996] Resetting plugins due to page load.
+2015-05-29 14:47:06.306 DartBully[57555:12013996] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/9CD68CF6-C299-4AA6-B13B-503A067F91CF/DartBully.app/www/index.html
+2015-05-29 14:59:45.183 DartBully[63193:12025295] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/58F5C19D-22CF-4FCD-9154-4B79E0BA3F68/Library/Cookies/Cookies.binarycookies
+2015-05-29 14:59:45.275 DartBully[63193:12025295] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 14:59:45.276 DartBully[63193:12025295] Multi-tasking -> Device: YES, App: YES
+2015-05-29 14:59:45.281 DartBully[63193:12025295] Unlimited access to network resources
+2015-05-29 14:59:45.283 DartBully[63193:12025295] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 14:59:45.415 DartBully[63193:12025295] Resetting plugins due to page load.
+2015-05-29 14:59:45.541 DartBully[63193:12025295] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/71D4A3EE-0637-48F0-A88E-681AD215F630/DartBully.app/www/index.html
+2015-05-29 15:00:38.874 DartBully[63658:12026496] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/9AFFDCA2-DF2D-4FE9-ABB9-421C51FE141D/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:00:38.996 DartBully[63658:12026496] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:00:38.996 DartBully[63658:12026496] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:00:39.005 DartBully[63658:12026496] Unlimited access to network resources
+2015-05-29 15:00:39.009 DartBully[63658:12026496] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:00:39.212 DartBully[63658:12026496] Resetting plugins due to page load.
+2015-05-29 15:00:39.390 DartBully[63658:12026496] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/A21E5B1C-D200-4AC8-80A7-EDB39D1ABD93/DartBully.app/www/index.html
+2015-05-29 15:02:12.536 DartBully[64415:12028310] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/76D9602E-BDBB-4770-B257-9A3B021AECC4/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:02:12.614 DartBully[64415:12028310] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:02:12.614 DartBully[64415:12028310] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:02:12.621 DartBully[64415:12028310] Unlimited access to network resources
+2015-05-29 15:02:12.624 DartBully[64415:12028310] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:02:12.788 DartBully[64415:12028310] Resetting plugins due to page load.
+2015-05-29 15:02:12.909 DartBully[64415:12028310] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/843A9D71-11E3-43C3-8CF0-0385DD4A1724/DartBully.app/www/index.html
+2015-05-29 15:04:57.534 DartBully[65715:12031613] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/2D71E6AE-1489-4913-BFAD-52A9E8B3C3F8/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:04:57.613 DartBully[65715:12031613] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:04:57.614 DartBully[65715:12031613] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:04:57.619 DartBully[65715:12031613] Unlimited access to network resources
+2015-05-29 15:04:57.622 DartBully[65715:12031613] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:04:57.757 DartBully[65715:12031613] Resetting plugins due to page load.
+2015-05-29 15:04:58.541 DartBully[65715:12031613] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/E06ED623-ED25-48A7-A15B-8BAA22F10CD2/DartBully.app/www/index.html
+2015-05-29 15:05:56.792 DartBully[66224:12032890] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/7B6B11F8-7AD2-4DF2-91C9-A0DF431479FE/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:05:56.865 DartBully[66224:12032890] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:05:56.866 DartBully[66224:12032890] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:05:56.871 DartBully[66224:12032890] Unlimited access to network resources
+2015-05-29 15:05:56.874 DartBully[66224:12032890] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:05:57.010 DartBully[66224:12032890] Resetting plugins due to page load.
+2015-05-29 15:05:57.776 DartBully[66224:12032890] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/E9D2DAD4-0F6A-4CD0-AF7F-921D0FFEE0EC/DartBully.app/www/index.html
+2015-05-29 15:09:25.220 DartBully[67808:12036359] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/57B72555-5D9E-40CE-B2C2-FF49FEA22B23/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:09:25.313 DartBully[67808:12036359] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:09:25.313 DartBully[67808:12036359] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:09:25.320 DartBully[67808:12036359] Unlimited access to network resources
+2015-05-29 15:09:25.323 DartBully[67808:12036359] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:09:25.474 DartBully[67808:12036359] Resetting plugins due to page load.
+2015-05-29 15:09:25.611 DartBully[67808:12036359] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/B96E0C30-E3B7-45EA-886B-E08D2ACF9B6A/DartBully.app/www/index.html
+2015-05-29 15:10:32.142 DartBully[68375:12037790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/20B75D38-6DA8-4B67-9F8F-37030451E9DD/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:10:32.212 DartBully[68375:12037790] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:10:32.212 DartBully[68375:12037790] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:10:32.217 DartBully[68375:12037790] Unlimited access to network resources
+2015-05-29 15:10:32.219 DartBully[68375:12037790] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:10:32.350 DartBully[68375:12037790] Resetting plugins due to page load.
+2015-05-29 15:10:32.470 DartBully[68375:12037790] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/B63D2114-9B14-4883-92F0-AC2F46ED9423/DartBully.app/www/index.html
+2015-05-29 15:11:33.620 DartBully[68894:12039095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/37B02351-696A-41BE-80E4-8CE3DF1C767D/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:11:33.707 DartBully[68894:12039095] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:11:33.708 DartBully[68894:12039095] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:11:33.715 DartBully[68894:12039095] Unlimited access to network resources
+2015-05-29 15:11:33.718 DartBully[68894:12039095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:11:33.871 DartBully[68894:12039095] Resetting plugins due to page load.
+2015-05-29 15:11:34.000 DartBully[68894:12039095] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/56965AF8-9FA3-4343-A81F-72FCB077894C/DartBully.app/www/index.html
+2015-05-29 15:11:43.312 DartBully[68894:12039125] Communications error: <OS_xpc_error: <error: 0x2e415f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2e4183c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-05-29 15:41:49.553 DartBully[82413:12116273] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/07258912-654B-4864-86F2-321627678E03/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:41:49.755 DartBully[82413:12116273] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:41:49.755 DartBully[82413:12116273] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:41:49.774 DartBully[82413:12116273] Unlimited access to network resources
+2015-05-29 15:41:49.778 DartBully[82413:12116273] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:41:50.390 DartBully[82413:12116273] Resetting plugins due to page load.
+2015-05-29 15:41:50.638 DartBully[82413:12116273] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/BD240DBF-D175-425D-99BC-5DCEE66FDD1D/DartBully.app/www/index.html
+2015-05-29 15:43:28.797 DartBully[83241:12131832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/01F76AA1-D44E-4D20-8024-F643F9ECB569/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:43:28.927 DartBully[83241:12131832] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:43:28.927 DartBully[83241:12131832] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:43:28.932 DartBully[83241:12131832] Unlimited access to network resources
+2015-05-29 15:43:28.934 DartBully[83241:12131832] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:43:29.087 DartBully[83241:12131832] Resetting plugins due to page load.
+2015-05-29 15:43:29.442 DartBully[83241:12131832] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/2D820A04-4362-4765-8948-EF94A6A373D4/DartBully.app/www/index.html
+2015-05-29 15:46:30.037 DartBully[84632:12150141] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/EF4B8CB3-D493-4963-AEE9-9343E7A96554/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:46:30.137 DartBully[84632:12150141] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:46:30.137 DartBully[84632:12150141] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:46:30.142 DartBully[84632:12150141] Unlimited access to network resources
+2015-05-29 15:46:30.145 DartBully[84632:12150141] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:46:30.279 DartBully[84632:12150141] Resetting plugins due to page load.
+2015-05-29 15:46:30.400 DartBully[84632:12150141] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/9EF88444-6385-4437-A073-73E929605D7B/DartBully.app/www/index.html
+2015-05-29 15:47:34.791 DartBully[85168:12158748] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/BE55F1D5-5DB4-4916-9B8F-EB7516E6174A/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:47:34.879 DartBully[85168:12158748] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:47:34.880 DartBully[85168:12158748] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:47:34.885 DartBully[85168:12158748] Unlimited access to network resources
+2015-05-29 15:47:34.887 DartBully[85168:12158748] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:47:35.020 DartBully[85168:12158748] Resetting plugins due to page load.
+2015-05-29 15:47:35.165 DartBully[85168:12158748] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/BB0C8A98-33E3-414F-A6B5-D5F87A76BA13/DartBully.app/www/index.html
+2015-05-29 15:51:30.716 DartBully[87051:12182065] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/BE01D1A4-6CA9-4DCC-A817-39F41B13CC11/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:51:30.803 DartBully[87051:12182065] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:51:30.804 DartBully[87051:12182065] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:51:30.808 DartBully[87051:12182065] Unlimited access to network resources
+2015-05-29 15:51:30.810 DartBully[87051:12182065] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:51:30.941 DartBully[87051:12182065] Resetting plugins due to page load.
+2015-05-29 15:51:31.842 DartBully[87051:12182065] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/ABE4F377-ED2F-4457-A60F-CD7B000CB37A/DartBully.app/www/index.html
+2015-05-29 15:52:03.072 DartBully[87360:12184637] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/BA3B0E54-AA54-4538-9F73-FD7914ECD39C/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:52:03.159 DartBully[87360:12184637] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:52:03.160 DartBully[87360:12184637] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:52:03.164 DartBully[87360:12184637] Unlimited access to network resources
+2015-05-29 15:52:03.167 DartBully[87360:12184637] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:52:03.296 DartBully[87360:12184637] Resetting plugins due to page load.
+2015-05-29 15:52:04.072 DartBully[87360:12184637] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/957F2AD1-C5C7-4011-82BF-C0BDBEB1ED59/DartBully.app/www/index.html
+2015-05-29 15:54:24.037 DartBully[88437:12197949] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/0584B2E5-AE51-44BE-B61A-6F0F5D9D1079/Library/Cookies/Cookies.binarycookies
+2015-05-29 15:54:24.122 DartBully[88437:12197949] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 15:54:24.123 DartBully[88437:12197949] Multi-tasking -> Device: YES, App: YES
+2015-05-29 15:54:24.127 DartBully[88437:12197949] Unlimited access to network resources
+2015-05-29 15:54:24.130 DartBully[88437:12197949] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 15:54:24.264 DartBully[88437:12197949] Resetting plugins due to page load.
+2015-05-29 15:54:25.039 DartBully[88437:12197949] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/09E48B89-8096-4181-B23F-21A1CEB964EC/DartBully.app/www/index.html
+2015-05-29 16:02:55.360 DartBully[92288:12257512] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/B719991F-D25C-46BF-B9B5-4735D2F1A4CF/Library/Cookies/Cookies.binarycookies
+2015-05-29 16:02:55.472 DartBully[92288:12257512] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 16:02:55.472 DartBully[92288:12257512] Multi-tasking -> Device: YES, App: YES
+2015-05-29 16:02:55.478 DartBully[92288:12257512] Unlimited access to network resources
+2015-05-29 16:02:55.482 DartBully[92288:12257512] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 16:02:55.663 DartBully[92288:12257512] Resetting plugins due to page load.
+2015-05-29 16:02:55.805 DartBully[92288:12257512] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/EEFF9432-9182-4040-9A51-F4CE675844CE/DartBully.app/www/index.html
+2015-05-29 16:03:30.018 DartBully[92620:12259501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/05A1F1BB-B878-4002-95E9-B9629366004A/Library/Cookies/Cookies.binarycookies
+2015-05-29 16:03:30.095 DartBully[92620:12259501] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 16:03:30.096 DartBully[92620:12259501] Multi-tasking -> Device: YES, App: YES
+2015-05-29 16:03:30.101 DartBully[92620:12259501] Unlimited access to network resources
+2015-05-29 16:03:30.103 DartBully[92620:12259501] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 16:03:30.241 DartBully[92620:12259501] Resetting plugins due to page load.
+2015-05-29 16:03:30.325 DartBully[92620:12259501] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/7FE139CF-F575-4425-A2CF-C7A778DE29B5/DartBully.app/www/index.html
+2015-05-29 16:05:59.784 DartBully[93776:12279411] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/62C62D55-78AE-44A0-B69C-85DC8160D1C7/Library/Cookies/Cookies.binarycookies
+2015-05-29 16:05:59.915 DartBully[93776:12279411] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 16:05:59.915 DartBully[93776:12279411] Multi-tasking -> Device: YES, App: YES
+2015-05-29 16:05:59.921 DartBully[93776:12279411] Unlimited access to network resources
+2015-05-29 16:05:59.924 DartBully[93776:12279411] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 16:06:00.099 DartBully[93776:12279411] Resetting plugins due to page load.
+2015-05-29 16:06:00.893 DartBully[93776:12279411] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/46C8AC84-0DCD-4D93-AA38-F8B8C503EC64/DartBully.app/www/index.html
+2015-05-29 16:06:57.143 DartBully[94260:12286108] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Data/Application/35B1851F-D63A-441D-BDC3-67E170428CDC/Library/Cookies/Cookies.binarycookies
+2015-05-29 16:06:57.252 DartBully[94260:12286108] Apache Cordova native platform version 3.6.3 is starting.
+2015-05-29 16:06:57.252 DartBully[94260:12286108] Multi-tasking -> Device: YES, App: YES
+2015-05-29 16:06:57.260 DartBully[94260:12286108] Unlimited access to network resources
+2015-05-29 16:06:57.264 DartBully[94260:12286108] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-05-29 16:06:57.413 DartBully[94260:12286108] Resetting plugins due to page load.
+2015-05-29 16:06:58.199 DartBully[94260:12286108] Finished load of: file:///Users/darren.koepp/Library/Developer/CoreSimulator/Devices/7F27ACFF-7034-4F16-92B1-43F2CAF1B4D1/data/Containers/Bundle/Application/C61545C0-B8C6-459B-8DE5-6F8FE9EBC1D3/DartBully.app/www/index.html
